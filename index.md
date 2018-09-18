@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{:refdef: .index-row}
+<div class="index-row">
 {:refdef: .index-column}
 Hello, and Welcome.
 {:refdef}
@@ -12,6 +12,6 @@ How are you?
 {:refdef: .index-column}
 I am fine, thank you.
 {:refdef}
-{:refdef}
+</div>
 
-This (going to be) an outreach page to make Swing Dancing an accessible activity for all.
+An outreach page to make Swing Dancing an accessible activity for all.
