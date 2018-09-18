@@ -23,8 +23,10 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ post.date | date_to_string }}</h2>
+      <h1 class="project-name">{{ post.title | default: site.github.repository_name }}</h1>
+      {% if post.date %}
+      <h2 class="project-tagline">{{ post.date }}</h2>
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
