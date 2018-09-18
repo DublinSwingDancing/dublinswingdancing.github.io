@@ -1,0 +1,16 @@
+---
+---
+
+/* Create three equal columns that floats next to each other */
+.index_column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+/* Clear floats after the columns */
+.index_row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

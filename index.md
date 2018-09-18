@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div class="index_row"><div class="index_column"><div class="index_top_title">
+<div class="index_row"><div class="index_column"><p class="index_top_title">
 About
-</div>
+</p>
 Hello, and Welcome
-</div><div class="index_column"><div class="index_top_title">
+</div><div class="index_column"><p class="index_top_title">
 Charter
-</div>
+</p>
 How are you?
-</div><div class="index_column"><div class="index_top_title">
+</div><div class="index_column"><p class="index_top_title">
 FAQ
-</div>
+</p>
 I am fine, thank you.
 </div></div>
 
