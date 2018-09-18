@@ -9,7 +9,7 @@ Hello, and Welcome. What is this page for? [<a href="/about">Read More ...</a>]
 </div><div class="index_column"><h2>
 Charter
 </h2>
-How the funds are used and governed. [<a href="/charter"[Read More ...</a>]
+How the funds are used and governed. [<a href="/charter">Read More ...</a>]
 </div><div class="index_column"><h2>
 FAQ
 </h2>

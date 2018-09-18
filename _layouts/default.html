@@ -37,11 +37,18 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-      
-      
-      {% for post in site.posts %}
+
+      <div class="index_row"><div class="index_column_2x"><h2>
+        News
+        </h2>
+        {% for post in site.posts %}
         <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-      {% endfor %}
+        {% endfor %}
+        </div><div class="index_column"><h2>
+        Donate
+        </h2>
+        How you can help [<a href="/donate">Read More ...</a>]
+      </div></div>
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
