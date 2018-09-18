@@ -15,5 +15,3 @@ FAQ
 </h2>
 Frequently asked questions. [<a href="/FAQ">Read More ...</a>]
 </div></div>
-
-An outreach page to make Swing Dancing an accessible activity for all.
