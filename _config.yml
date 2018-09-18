@@ -2,5 +2,6 @@
 theme: jekyll-theme-cayman
 title: "Dublin Swing Dancing"
 description: "A Collection of Things Relating to Dublin's Swing Dancing Scene"
+markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
