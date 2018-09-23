@@ -10,7 +10,7 @@ reach out people who might become interested in it. [<a href="/about">Read More<
 </div><div class="index_column"><h2>
 Charter
 </h2>
-How the funds will be dispersed and details over the governce of funds for year 2019. <br/>[<a href="/charter">Details</a>]
+How the funds will be dispersed and details over the governance of funds for year 2019. <br/>[<a href="/charter">Details</a>]
 </div><div class="index_column"><h2>
 FAQ
 </h2>
