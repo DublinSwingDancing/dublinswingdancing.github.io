@@ -48,6 +48,7 @@
         Donate
         </h2>
         <form action="https://dublinswingdancing.herokuapp.com" method="POST">
+          <input type="hidden" name="amount" value="1000" />
           <script
             src="https://checkout.stripe.com/checkout.js" class="stripe-button"
             data-key="pk_test_DKxUwrWyU6koAZ6xaRstYLEP"
@@ -59,6 +60,7 @@
             data-locale="auto"
             data-currency="eur">
           </script>
+	</form>
       </div></div>
         
       <hr/>
